@@ -1,0 +1,20 @@
+{
+  "name": "test-56f8cfca539fc9118db211f48d5d0963cbd5d504",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10",
+    "moongoose": "^0.0.5",
+    "node": "^14.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lewis Klein",
+  "license": "ISC"
+}
